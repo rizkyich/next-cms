@@ -1,5 +1,5 @@
 module.exports = {
-  purge: ['./pafes/**/*.{js,ts,jsx,tsx}', './components/**/*.{js,ts,jsx,tsx}'],
+  purge: [],
   darkMode: false, // or 'media' or 'class'
   theme: {
     extend: {},
